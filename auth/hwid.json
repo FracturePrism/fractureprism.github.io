@@ -3,12 +3,14 @@
         "Username": "FracturePrism",
         "Role": "Owner",
         "HWID": "78b940a818e910c3fb95f38be1244a72661a4b28dfcd2c1613f5fcd582017929",
-        "Banned": true
+        "Banned": true,
+        "Reason": "get out of here"
     },
     {
         "Username": "cheewee10",
         "Role": "User",
         "HWID": null,
-        "Banned": false
+        "Banned": false,
+        "Reason": "none"
     }
 ]
