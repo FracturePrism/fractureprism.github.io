@@ -12,5 +12,18 @@
         "HWID": null,
         "Banned": false,
         "Reason": "none"
+    },
+    {
+        "Username": "SakuraDevelopment",
+        "Role": "Admin",
+        "HWID": null,
+        "Banned": false,
+        "Reason": "none"
+    },
+    {
+        "Username":"NativeFlow",
+        "Role":"Admin",
+        "Banned":false,
+        "Reason":"none"
     }
 ]
