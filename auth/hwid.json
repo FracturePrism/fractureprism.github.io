@@ -24,7 +24,7 @@
         "Username":"LaterLaterLater",
         "Role":"User",
         "HWID":"23a7d71defd134d9a36ac6c6342aba2ec88fdb7d8df66d6a194887bec2265ee1",
-        "Banned":false,
-        "Reason":"none"
+        "Banned":true,
+        "Reason":"Toxic"
     }
 ]
